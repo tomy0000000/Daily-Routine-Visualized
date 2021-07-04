@@ -2,7 +2,7 @@
 
 👀🏪 My messed-up daily routine during lockdown, visualized.
 
-![](img/full.png)
+![Tomy's messed-up daily routine](img/Full.png)
 
 ## Usage
 
